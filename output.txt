@@ -1,0 +1,33 @@
+The numbers being inserted into the binary tree are: 
+12 6 15 21 2 8 18 6 duplicated 3 9 27 
+In-Order traversal and print out of the binary tree is: 
+2 3 6 8 9 12 15 18 21 27 
+The Binary Tree in reverse (decreasing) order is: 
+27 21 18 15 12 9 8 6 3 2 
+The Binary Tree in level-order is: 
+12 6 15 2 8 21 3 9 18 27 
+Printing the binary tree with 90-degree counterclockwise rotated: 
+
+               27
+
+          21
+
+               18
+
+     15
+
+12
+
+               9
+
+          8
+
+     6
+
+               3
+
+          2
+Searching the binary tree: 
+6 found.
+25 not found.
+18 found.
